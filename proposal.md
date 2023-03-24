@@ -30,9 +30,9 @@ Check the following boxes when complete or add a note below if you
 encountered a problem.
 
 - [x] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [X] I have run at least one example
+- [X] I have run the test suite
+- [X] The test suite passes
 
 ### Notes/concerns/risks
 
